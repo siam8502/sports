@@ -1,0 +1,742 @@
+#EXTM3U
+#Last Update : 2026-10-31 19:51:14 (BD)
+#Author : https://t.me/himel_himu
+#Telegram Channel : https://t.me/HimelOP_Official
+###HOP-CDN1###
+#CHNO:1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/file_00000000ef188210b374466d44e9de68.png" group-title="HOP'S Premium Playlist",Playlist By HOP
+https://video.twimg.com/amplify_video/2104168501795586048/pl/rA2Iu-r6aLqkWg1f.m3u8
+
+#CHNO:2
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Hot Events By HOP",NPL 2026
+https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8
+###HOP-CDN2###
+#CHNO:3
+#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Willow Cricket By HOP",PAK vs SL - HOP S1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd
+
+#CHNO:4
+#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Willow Cricket By HOP",SA vs AUS - HOP S1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/muuiy51nil/out/v1/a441f3a044df462e89583d61af8fdd47/cenc.mpd
+
+#CHNO:5
+#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Willow Cricket By HOP",Hong Kong Sixes 2026 - HOP S1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+#CHNO:6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",1. FC Kaiserslautern vs Hertha BSC - DAZN SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc6da6cdc7db9750d39cbf9d36248ac1:456e4f020278cdb8a7f1d235b036199c
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vszmn76lja/out/v1/4988d23eb50a4094bcc86a29f79423bb/cenc.mpd
+
+#CHNO:7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Stoke City vs Preston North End - PARAMOUNT+ FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e7fb9ca2f31434268097f1c71b638e0:10f38076c5b6ea3f524c29e1cd8c3762
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4g0osmwmot/out/v1/82ab87f0b6d74273b070ba3545052b17/cenc.mpd?aws_sessionId=111e164e-8aa0-4302-a447-22ae0931692d
+
+#CHNO:8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Stoke City vs Preston North End - DAZN SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89a3d88bb992425b4458966962a66cfe:9d2f049648a0d33d24af52873160f8e0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/evyxlqolvy/out/v1/5fe1c2658ed04fc582036d504ed976e8/cenc.mpd
+
+#CHNO:9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Stoke City vs Preston North End - beIN ENGLISH FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#CHNO:10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Lincoln City vs Birmingham City - PARAMOUNT+ FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ec2e449fe6b9646adc9531d853492f3:20b04601e834cdf1f9c558a64693104f
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dfuf1pq4yh/out/v1/0c6410fe752346d79375b1e55edfe675/cenc.mpd?aws_sessionId=ffe5cf97-a256-4a1a-a62a-27518ade3e5d
+
+#CHNO:11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Lincoln City vs Birmingham City - CBS SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#CHNO:12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Chelsea vs Manchester United - FUBO SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd?aws_sessionId=5a6190a9-56e9-4cee-bb0d-1d9783ce201f
+
+#CHNO:13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Chelsea vs Manchester United - TNT SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#CHNO:14
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Chelsea vs Manchester United - FUBO SPORTS ALT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
+
+#CHNO:15
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Chelsea vs Manchester United - CazéTV FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
+
+#CHNO:16
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Levante UD vs Atlético Madrid - beIN ENGLISH FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
+
+#CHNO:17
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Levante UD vs Atlético Madrid - FANCODE FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#CHNO:18
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Levante UD vs Atlético Madrid - D SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+
+#CHNO:19
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Indian Super League ISL - PRIME VIDEO FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2028c0ed011bf30e99416243b010015d:f8b3fc9cb034c0b72661e84d025ae01a
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/otmqjqoff0/out/v1/11d1a5224b8f4d888379715e7d6220f2/cenc.mpd
+
+#CHNO:20
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Rayo Vallecano vs Celta Vigo - FANCODE FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#CHNO:21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Feyenoord vs Fortuna Sittard - SportDigital Fussball
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
+
+#CHNO:22
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",Tottenham Hotspur vs Crystal Palace - NBC SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd
+
+#CHNO:23
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",FC Bayern München vs Borussia Dortmund - SporTV BR FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+
+#CHNO:24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="Football Live Events MPD By HOP",AC Milan vs Inter - SPORT 1 CZ FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+#CHNO:25
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260929_113300_445.PNG" group-title="Hot Events By HOP", College GameDay
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/55418/load-playlist?&extension=.m3u8
+
+#CHNO:26
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260929_113300_445.PNG" group-title="Hot Events By HOP", Bologna vs Monza
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/58911/load-playlist-multi?&extension=.m3u8
+
+#CHNO:27
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260929_113300_445.PNG" group-title="Hot Events By HOP", Levante UD vs Atlético Madrid
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/58910/load-playlist-multi?&extension=.m3u8
+
+#CHNO:28
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260929_113300_445.PNG" group-title="Hot Events By HOP", Chelsea vs Manchester United
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/58909/load-playlist-multi?&extension=.m3u8
+
+#CHNO:29
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260929_113300_445.PNG" group-title="Hot Events By HOP", Formula 1 2026 - Mexico GP
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/58842/load-playlist-multi?&extension=.m3u8
+
+#CHNO:30
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Chelsea vs Manchester United - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/cbab0097-c9d6-49e8-be82-9530f64af720.m3u8
+
+#CHNO:31
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Chelsea vs Manchester United - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/N777XX.m3u8
+
+#CHNO:32
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Chelsea vs Manchester United - HOP S3
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.41/hls/N777XX.m3u8
+
+#CHNO:33
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Chelsea vs Manchester United - HOP S4
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/N777XX.m3u8
+
+#CHNO:34
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Chelsea vs Manchester United - HOP S5
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.59/hls/N777XX.m3u8
+
+#CHNO:35
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALL IN ONE LIVE BY HOP", Orlando Pirates vs Kaizer Chiefs - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/2222.m3u8
+
+#CHNO:36
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALL IN ONE LIVE BY HOP", Orlando Pirates vs Kaizer Chiefs - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.41/hls/2222.m3u8
+
+#CHNO:37
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALL IN ONE LIVE BY HOP", Orlando Pirates vs Kaizer Chiefs - HOP S3
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/2222.m3u8
+
+#CHNO:38
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALL IN ONE LIVE BY HOP", Orlando Pirates vs Kaizer Chiefs - HOP S4
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.59/hls/2222.m3u8
+
+#CHNO:39
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="ALL IN ONE LIVE BY HOP", Stoke City vs Preston - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/ZZZZ.m3u8
+
+#CHNO:40
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="ALL IN ONE LIVE BY HOP", Stoke City vs Preston - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/1a04e7e5-dca1-496f-9481-d71ea422eec9.m3u8
+
+#CHNO:41
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="ALL IN ONE LIVE BY HOP", Norwich City vs Watford - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/goooAAAAQQQQA.m3u8
+
+#CHNO:42
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="ALL IN ONE LIVE BY HOP", Norwich City vs Watford - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/9deb176a-f3b9-44bf-be1d-cc6663aa3add.m3u8
+
+#CHNO:43
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="ALL IN ONE LIVE BY HOP", Lincoln vs Birmingham City - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/goooAAAAQQQQ.m3u8
+
+#CHNO:44
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="ALL IN ONE LIVE BY HOP", Lincoln vs Birmingham City - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/5c490298-f71f-47d3-994a-bf9a7baf9d67.m3u8
+
+#CHNO:45
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png" group-title="ALL IN ONE LIVE BY HOP", Plymouth vs Reading - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/goooAAAAQQQ.m3u8
+
+#CHNO:46
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png" group-title="ALL IN ONE LIVE BY HOP", Plymouth vs Reading - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/38b02ac1-a31a-4ddf-87ce-72ba1754a95b.m3u8
+
+#CHNO:47
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png" group-title="ALL IN ONE LIVE BY HOP", Leyton Orient vs Cambridge Utd - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/goooAAAAQQ.m3u8
+
+#CHNO:48
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png" group-title="ALL IN ONE LIVE BY HOP", Leyton Orient vs Cambridge Utd - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/3ad59f85-bdd9-46b0-b45a-49d69cfbc572.m3u8
+
+#CHNO:49
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png" group-title="ALL IN ONE LIVE BY HOP", Bradford City vs Huddersfield - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/goooAAAAQ.m3u8
+
+#CHNO:50
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2066809302329757696/8JzdRXMH_400x400.png" group-title="ALL IN ONE LIVE BY HOP", Port Vale vs Rochdale - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/goooAAAA.m3u8
+
+#CHNO:51
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2066809302329757696/8JzdRXMH_400x400.png" group-title="ALL IN ONE LIVE BY HOP", Grimsby vs York City - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/goooAAA.m3u8
+
+#CHNO:52
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2072189899344613376/DeGLZ4Il_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Wieczysta Krakow vs Jagiellonia - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/BDDDAAAAQQAAAAA.m3u8
+
+#CHNO:53
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Al Taawon vs Al Ettifaq - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/BDDDAAAAQQAAAA.m3u8
+
+#CHNO:54
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1660209856731643905/f1K1xeM7_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Clermont vs Racing 92 - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/BDDDAAAAQQAA.m3u8
+
+#CHNO:55
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2115751976109563904/8xS96H15_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Levante vs Atletico Madrid - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/BDDDAAAAQQA.m3u8
+
+#CHNO:56
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2115751976109563904/8xS96H15_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Levante vs Atletico Madrid - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/20efe005-19c4-42c6-8cf7-527abec4f374.m3u8
+
+#CHNO:57
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Sociedad B vs Girona - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/VUUUAAAAQQQ.m3u8
+
+#CHNO:58
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2001309157903732736/CPkmq-J4_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Annecy vs Montpellier - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/BDDDAAAAQQ.m3u8
+
+#CHNO:59
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1344253261650530304/NhvOsx8h_400x400.png" group-title="ALL IN ONE LIVE BY HOP", Beitar Jerusalem vs Kiryat Shmona - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/BDDDAAAAQ.m3u8
+
+#CHNO:60
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Kocaelispor vs Rizespor - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/BDDDAA.m3u8
+
+#CHNO:61
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1640292682609180674/tVFOSQj3_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Karagumruk vs Pendikspor - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/BDDDA.m3u8
+
+#CHNO:62
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1640292682609180674/tVFOSQj3_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Bursaspor vs Bandirmaspor - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/BDDD.m3u8
+
+#CHNO:63
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Vikos vs AEK Athens - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/VUUUAAAAQQQQ.m3u8
+
+#CHNO:64
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1921193789244256258/tbBMT3R-_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Verl vs Wehen - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/VUUUAAAAQQ.m3u8
+
+#CHNO:65
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1921193789244256258/tbBMT3R-_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", TSV Havelse vs Ingolstadt - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/VUUUAAAAQ.m3u8
+
+#CHNO:66
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1921193789244256258/tbBMT3R-_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Regensburg vs Hansa Rostock - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/VUUUAAAA.m3u8
+
+#CHNO:67
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1921193789244256258/tbBMT3R-_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Hoffenheim II vs Viktoria Koln - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/VUUUAAA.m3u8
+
+#CHNO:68
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1921193789244256258/tbBMT3R-_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Duisburg vs Stuttgart II - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/VUUUAA.m3u8
+
+#CHNO:69
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", South Africa W vs Ireland W - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/VUUUA.m3u8
+
+#CHNO:70
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2095475297214758912/FzYuFMEr_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Everton W vs Manchester Utd W - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/VUUU.m3u8
+
+#CHNO:71
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_400x400.png" group-title="ALL IN ONE LIVE BY HOP", Stormers vs Ulster - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/goooAAAAQQQQAAA.m3u8
+
+#CHNO:72
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALL IN ONE LIVE BY HOP", Forest Green vs Harrogate - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/ZZZZJQ.m3u8
+
+#CHNO:73
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALL IN ONE LIVE BY HOP", FC Halifax vs Yeovil - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/ZZZZJ.m3u8
+
+#CHNO:74
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/896717277533544448/7XbOsUdT_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Fredericia vs AB Copenhagen - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/goooAAAAQQQQAA.m3u8
+
+#CHNO:75
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Rubin Kazan vs Fakel Voronezh - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/goooAA.m3u8
+
+#CHNO:76
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1500628606988558343/MLN0_jMP_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Wolfsburg vs VfL Osnabruck - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/juuua.m3u8
+
+#CHNO:77
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1500628606988558343/MLN0_jMP_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", FC Kaiserslautern vs Hertha Berlin - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/juuu.m3u8
+
+#CHNO:78
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1500628606988558343/MLN0_jMP_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Darmstadt vs Magdeburg - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/crrraaaqqqq.m3u8
+
+#CHNO:79
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/474124902702657536/j0UJNMZa_400x400.jpeg" group-title="ALL IN ONE LIVE BY HOP", Radnik Bijeljina vs Siroki Brijeg - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/goooA.m3u8
+
+#CHNO:80
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1804462637155016704/wTbeoAGR_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Lokomotiv Plovdiv vs Ludogorets - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/gooo.m3u8
+
+#CHNO:81
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/896717277533544448/7XbOsUdT_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Kolding IF vs Koge - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/juuuaa.m3u8
+
+#CHNO:82
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Norrkoping vs Ostersund - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/crrraaaq.m3u8
+
+#CHNO:83
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Kristianstad vs Eskilsminne - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/crrraaa.m3u8
+
+#CHNO:84
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Angelholm vs Tvaaker - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/crrraa.m3u8
+
+#CHNO:85
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Bangkok Utd vs Uthai Thani - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/crrr.m3u8
+
+#CHNO:86
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2105656126155198464/NyaL6m2J_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Chennaiyin vs Kerala Blasters - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/hhhhaaaaaa.m3u8
+
+#CHNO:87
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2100153089596772352/6HafEL9x_400x400.png" group-title="ALL IN ONE LIVE BY HOP", Hougang vs Young Lions - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/hhhhaaaaa.m3u8
+
+#CHNO:88
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2072189899344613376/DeGLZ4Il_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Wisla Plock vs Piast Gliwice - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/hhhhaaaa.m3u8
+
+#CHNO:89
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Golf HotelPlanner Tour Grand Final - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.59/hls/6HHHAAQQQAAQQQQQ.m3u8
+
+#CHNO:90
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2024397899501568001/guL-6Mi6_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", South Africa vs Australia - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/XAXAXAAX.m3u8
+
+#CHNO:91
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2024397899501568001/guL-6Mi6_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Pakistan vs Sri Lanka - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/PPPP.m3u8
+
+#CHNO:92
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Tennis WTA Tokyo - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/BUUU.m3u8
+
+#CHNO:93
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg" group-title="SonyLIV", Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026 [ENG] - MG Indian Super League 2026-27
+https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793497360~acl=/*~id=22824002198000177292342086595175~hmac=948ffc997926a21060689e2e7061164ad4baaa4d301c6b246d998bc142e1b332
+
+#CHNO:94
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg" group-title="SonyLIV", Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026 [HIN] - MG Indian Super League 2026-27
+https://sonydaime.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793497360~acl=/*~id=22824002198000177292342086595175~hmac=948ffc997926a21060689e2e7061164ad4baaa4d301c6b246d998bc142e1b332
+
+#CHNO:95
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg" group-title="SonyLIV", Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026 [BEN] - MG Indian Super League 2026-27
+https://sonydaime.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793497360~acl=/*~id=22824002198000177292342086595175~hmac=948ffc997926a21060689e2e7061164ad4baaa4d301c6b246d998bc142e1b332
+
+#CHNO:96
+#EXTINF:-1 tvg-id="sonyliv-1090551190" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg" group-title="SonyLIV", Mohun Bagan Super Giant vs Punjab FC | MG Indian Super League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1fb8prod-PlaybackConfig/2120302/footlive3110/ENG/master.m3u8?hdnea=exp=1793496057~acl=/*~id=25101654354456126602393823110590~hmac=341f71f185b3acbc976189a1f253ea4f1f0c0d78eefad090d33fefc74e6ebee3
+
+#CHNO:97
+#EXTINF:-1 tvg-id="sonyliv-1090551190" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg" group-title="SonyLIV", Mohun Bagan Super Giant vs Punjab FC | MG Indian Super League 2026-27 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1fb8prod-PlaybackConfig/2120305/footlive3110/HIN/master.m3u8?hdnea=exp=1793496057~acl=/*~id=25101654354456126602393823110590~hmac=341f71f185b3acbc976189a1f253ea4f1f0c0d78eefad090d33fefc74e6ebee3
+
+#CHNO:98
+#EXTINF:-1 tvg-id="sonyliv-1090551190" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg" group-title="SonyLIV", Mohun Bagan Super Giant vs Punjab FC | MG Indian Super League 2026-27 [Bengali]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1fb8prod-PlaybackConfig/2120308/footlive3110/BEN/master.m3u8?hdnea=exp=1793496057~acl=/*~id=25101654354456126602393823110590~hmac=341f71f185b3acbc976189a1f253ea4f1f0c0d78eefad090d33fefc74e6ebee3
+
+#CHNO:99
+#EXTINF:-1 tvg-id="1090551190" tvg-name="MG Indian Super League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLIV",ENG | Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026
+https://sonymtmnew.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793495418~acl=/*~id=af30a945ade97ece2ce911b0fc8cd61d-1793452202999~hmac=f6fbe4afa547ad2e27301ad8b4366955fce214445293aca61a509cc22aacbb8c|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7910d31133b276d4776c1099735093d5-1793454603361
+
+#CHNO:100
+#EXTINF:-1 tvg-id="1090551190" tvg-name="MG Indian Super League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLIV",HIN | Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026
+https://sonymtmnew.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793495418~acl=/*~id=af30a945ade97ece2ce911b0fc8cd61d-1793452202999~hmac=f6fbe4afa547ad2e27301ad8b4366955fce214445293aca61a509cc22aacbb8c|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7910d31133b276d4776c1099735093d5-1793454603361
+
+#CHNO:101
+#EXTINF:-1 tvg-id="1090551190" tvg-name="MG Indian Super League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg" tvg-language="Bengali" group-title="SonyLIV",BEN | Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026
+https://sonymtmnew.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793495418~acl=/*~id=af30a945ade97ece2ce911b0fc8cd61d-1793452202999~hmac=f6fbe4afa547ad2e27301ad8b4366955fce214445293aca61a509cc22aacbb8c|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7910d31133b276d4776c1099735093d5-1793454603361
+
+#CHNO:102
+#EXTINF:-1 tvg-id="tapmad-18886" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933465791020x576.jpg" group-title="Tapmad BD", Pakistan vs Sri Lanka - Final - Pakistan ODI Tri-Series 2026 - Server 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://tapmad.com/"}
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+
+#CHNO:103
+#EXTINF:-1 tvg-id="tapmad-18886" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933465791020x576.jpg" group-title="Tapmad BD", Pakistan vs Sri Lanka - Final - Pakistan ODI Tri-Series 2026 - Server 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://tapmad.com/"}
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+
+#CHNO:104
+#EXTINF:-1 tvg-id="tapmad-17702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918900981020x576.jpg" group-title="Tapmad BD", South Africa vs Australia - 3rd Test - Australia Tour of South Africa 2026
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://tapmad.com/"}
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+
+#CHNO:105
+#EXTINF:-1 tvg-id="tapmad-19448" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933447601020x576.jpg" group-title="Tapmad BD", Levante vs Atletico Madrid - MATCHDAY 11 - LaLiga 2026/27
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://tapmad.com/"}
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
