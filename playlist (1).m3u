@@ -257,6 +257,145 @@ http://193.47.62.44/hls/FAFAFAa.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://www.rtmpcdn.com/live/e7ccc407-251f-432b-a8c4-c5e352c045a1.m3u8
 
+#CHNO:31
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", AEK Athens vs Real Madrid - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.41/hls/FAFAFA.m3u8
+
+#CHNO:32
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", AEK Athens vs Real Madrid - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.59/hls/FAFAFA.m3u8
+
+#CHNO:33
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", AEK Athens vs Real Madrid - HOP S3
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/FAFAFA.m3u8
+
+#CHNO:34
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", AEK Athens vs Real Madrid - HOP S4
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/FAFAFA.m3u8
+
+#CHNO:35
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", AEK Athens vs Real Madrid - HOP S5
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/ab49663e-0171-4576-bfe0-f3ef3215b513.m3u8
+
+#CHNO:36
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2015435508189368320/Qn1UT4oa_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Brazil U17 W vs Nigeria U17 W - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/AYYYYQ.m3u8
+
+#CHNO:37
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1978338933776826368/DTET5XRH_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Doxa vs Ol Nicosia - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/zzzz.m3u8
+
+#CHNO:38
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2018292396694372354/nBdWXvtu_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Szombathely vs AEK Athens - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/eeeeA.m3u8
+
+#CHNO:39
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2018292396694372354/nBdWXvtu_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Legia vs Galatasaray - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/eeee.m3u8
+
+#CHNO:40
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Erbil vs Kazma SC - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/eeeeAAA.m3u8
+
+#CHNO:41
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2004812101609459712/wwGcHUru_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Artis Brno vs Bohemians - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/eeeeAA.m3u8
+
+#CHNO:42
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Al Wahda vs Al Khalidiyah - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/zzzzAAAAA.m3u8
+
+#CHNO:43
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Al Rayyan vs Al Nahda - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/zzzzAAAA.m3u8
+
+#CHNO:44
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Al Kuwait vs Nasaf Qarshi - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/zzzzAAA.m3u8
+
+#CHNO:45
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Al Ettifaq vs Ajman - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/zzzzAA.m3u8
+
+#CHNO:46
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1675145822843944961/Nrv2TM-g_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Banska Bystrica vs Trencin - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/zzzzA.m3u8
+
+#CHNO:47
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Darts Players Championship 33 - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/AYYYYQQQQAAAaA.m3u8
+
+#CHNO:48
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Tennis Masters Paris - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/T777AA.m3u8
+
+#CHNO:49
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Tennis Masters Paris - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/T777A.m3u8
+
+#CHNO:50
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="ALL IN ONE LIVE BY HOP", Tennis Masters Paris - HOP S3
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/T777.m3u8
 
 ###HOP-CDN1###
 #CHNO:1
